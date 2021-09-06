@@ -1,9 +1,12 @@
+import MainHeader from "./header";
+import MainSection from "./section";
+
 /**
  * MainBody Component
  */
-const MainBody = {
+export default {
     components: {
-        MainHeader ,
+        MainHeader,
         MainSection,
     },
 

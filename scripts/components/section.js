@@ -1,8 +1,7 @@
 /**
  * section component
  */
-
-const MainSection = {
+export default {
     template: `
   <section class="jumbotron text-center">
       <div class="container">
