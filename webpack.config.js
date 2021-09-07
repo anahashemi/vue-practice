@@ -5,6 +5,8 @@ module.exports = {
 
     entry: {
         index: "./scripts/index.js",
+        about: "./scripts/about.js",
+        samples: "./scripts/samples.js",
     },
 
     output: {
